@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+     <head>
+     <title> Krista Tenorio</title>
+     </head>
+     <style> 
+     body {background color: pink;}
+     
+     .header {
+     color: darkblue;
+     }
+     
+     .skills {
+     color: black;
+     }
+
+     </style> 
+     </head>
+     
+     <body>
+     
+        <header>
+              <h1> Krista Tenorio </h1>
+            <p> Arlington, Texas 76002 | 817)818-8546 | kristatenorio@yahoo.com | Broadcast journalism and communications student with hands-on experience in news-adjacent media,
+                live event coverage, digital storytelling, and audience engagement. 
+                </p>
+            </header>
+    <hr> 
+    
+    <section> 
+        <h2> Experience </h2> 
+        <ul> 
+            <li>The Ticket Sports Radio 96.7/1310 - Assistant; 06/2025-Current</li>
+            <li>96.3 New country/99.5 The Wolf - Assistant; 06/2025_Current</li>
+            <li>Glo Tanning - Spa Consultant; 08/2024-Current</li>
+            <li>ANDNECOMPUTERS - Project Manager; 05/2020-08/2023</li>
+            <li>Twisted Southern Roots Boutique - Sales associate and social media manager; 01/2021-05/2023</li> 
+        </ul> 
+    </section>
+                  
+                  
+    </body>              
+</html>
