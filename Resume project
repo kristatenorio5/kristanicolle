@@ -2,27 +2,32 @@
 <html>
      <head>
      <title> Krista Tenorio</title>
-     </head>
      <style> 
-     body {background color: pink;}
      
-     .header {
+     body { 
+     background-color: pink; 
+     }
+     
+     h1 {
+     color: darkblue;
+     text-align: center;
+     }
+     
+     h2 {
      color: darkblue;
      }
-     
-     .skills {
-     color: black;
-     }
-
      </style> 
      </head>
      
-     <body>
      
+     <body>
         <header>
               <h1> Krista Tenorio </h1>
-            <p> Arlington, Texas 76002 | 817)818-8546 | kristatenorio@yahoo.com | Broadcast journalism and communications student with hands-on experience in news-adjacent media,
-                live event coverage, digital storytelling, and audience engagement. 
+              <h2> Arlington, Texas 76002 | (817) 818-8546 | kristatenorio@yahoo.com </h2>
+            <p>Broadcast journalism and communications student with hands-on experience in news-adjacent media,
+                live event coverage, digital storytelling, and audience engagement. Strong background in social media production,
+                on-site reporting, and fast-paced, deadline-driven environments. Skilled communicator with a professional on-camera
+                presence and a passion for current events, sports, and national news.
                 </p>
             </header>
     <hr> 
@@ -31,13 +36,29 @@
         <h2> Experience </h2> 
         <ul> 
             <li>The Ticket Sports Radio 96.7/1310 - Assistant; 06/2025-Current</li>
-            <li>96.3 New country/99.5 The Wolf - Assistant; 06/2025_Current</li>
+            <li>96.3 New country/99.5 The Wolf - Assistant; 06/2025-Current</li>
             <li>Glo Tanning - Spa Consultant; 08/2024-Current</li>
             <li>ANDNECOMPUTERS - Project Manager; 05/2020-08/2023</li>
             <li>Twisted Southern Roots Boutique - Sales associate and social media manager; 01/2021-05/2023</li> 
         </ul> 
+    </section> 
+    <hr>
+    
+    <section>
+        <h2>Skills</h2> 
+        <ul>
+            <li>Social Media Creation</li>
+            <li>Marketing strategy</li>
+            <li>Communication</li>
+            <li>Interviewing</li>
+            <li>Content Editing</li>
+            <li>Press Releases</li>
+            <li>Team Collaboration</li>
+            <li>Public Relations</li>
+            <li>Brand promotion</li>
+            <li>On-Camera Presentation</li>
+            <li>Event Planning & Promotions</li>
+            <li>Adobe Premiere Pro, Canva, iMovie</li>
+            </ul>
     </section>
-                  
-                  
-    </body>              
-</html>
+    </body>      
